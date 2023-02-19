@@ -1,0 +1,17 @@
+<messages>
+    <message>
+        Hello funcking workd!
+    </message>
+    <message own>
+        Вау, это реально работает!
+    </message>
+    <message own>
+        Я молодец?
+    </message>
+    <message>
+        Нет, ты балбес
+    </message>
+    <message>
+        убейся.
+    </message>
+</messages>
